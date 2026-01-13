@@ -9,3 +9,4 @@ psutil
 cfonts
 pycryptodome
 urllib3
+gunicorn
